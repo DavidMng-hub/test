@@ -1,3 +1,6 @@
+for i in range (3):
+     print("Bienvenido")
+
 t=int(input("Ingrese tamaño del vector:"))
 
 vec1=[]
@@ -22,3 +25,4 @@ for i in range(t):
      suma.append(vec1[i]+vec2[i])
      
 print(suma)
+
